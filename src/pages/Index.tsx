@@ -6,6 +6,7 @@ const Index = () => {
         src="http://localhost:5173"
         className="w-full h-screen border-0"
         title="localhost preview"
+        key="preview-iframe"
       />
     </div>
   );
